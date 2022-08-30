@@ -1,5 +1,5 @@
 const clientId = 'fb7d40f7652e4d2e957e1eaba5b4aaa9';
-const redirectUri = 'http://localhost:3000/';
+const redirectUri = 'http://jammming.s3-website-us-east-1.amazonaws.com/';
 let accessToken;
 
 export const Spotify = {
