@@ -1,5 +1,5 @@
-const clientId = '0fc8370316ea4d068c638e46fa839a33';
-const redirectUri = 'https://vermillion-zabaione-3da1a2.netlify.app/' 
+const clientId = 'fb7d40f7652e4d2e957e1eaba5b4aaa9';
+const redirectUri = 'http://localhost:3000/';
 let accessToken;
 
 export const Spotify = {
