@@ -1,5 +1,5 @@
-const clientId = 'fb7d40f7652e4d2e957e1eaba5b4aaa9';
-const redirectUri = 'http://jammming.s3-website-us-east-1.amazonaws.com/';
+const clientId = '0fc8370316ea4d068c638e46fa839a33';
+const redirectUri = 'https://vermillion-zabaione-3da1a2.netlify.app/';
 let accessToken;
 
 export const Spotify = {
